@@ -1,12 +1,12 @@
 # Academic-Projects
 below you can selected pictures from some of my academic projects.
-# Geodetic Surveying course
+# 1. Geodetic Surveying course
 ![Screenshot (111)](https://user-images.githubusercontent.com/60284829/221363790-70aab4da-f324-4512-b7c9-90a922176b77.png)
 ![Screenshot (112)](https://user-images.githubusercontent.com/60284829/221363792-43b60e6f-5215-47c8-890e-db559ed813d7.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/60284829/221363793-208c71e5-258e-42ee-9ba3-d25f0aa96968.png)
 
 
-# Remote Sensing Laboratory course
+# 2. Remote Sensing Laboratory course
 ![Screenshot (113)](https://user-images.githubusercontent.com/60284829/221364068-d14a8070-55b8-4e2c-8e9b-c854bef67c4d.png)
 ![Screenshot (114)](https://user-images.githubusercontent.com/60284829/221364071-f4c72898-a834-4622-9bfb-ee903a40a2ee.png)
 ![Screenshot (115)](https://user-images.githubusercontent.com/60284829/221364073-b66524b7-cf02-45a1-b58e-b15dadba4ce2.png)
@@ -16,7 +16,7 @@ below you can selected pictures from some of my academic projects.
 
 
 
-# Principles of Remote Sensing course
+# 3. Principles of Remote Sensing course
 ![Screenshot (118)](https://user-images.githubusercontent.com/60284829/221364043-f86b3266-c3aa-49c1-8477-abe9a88bcfb7.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/60284829/221364049-37511644-7a8f-4b57-849e-2bffb0fa8031.png)
 ![Screenshot (120)](https://user-images.githubusercontent.com/60284829/221364051-20b65b1c-201f-4699-a664-725bb135b5c5.png)
@@ -25,7 +25,7 @@ below you can selected pictures from some of my academic projects.
 
 
 
-# Digital Surface Modeling course
+# 4. Digital Surface Modeling course
 ![Screenshot (123)](https://user-images.githubusercontent.com/60284829/221364121-5a5f6e28-d87c-4bee-b2b5-660a89323767.png)
 ![Screenshot (124)](https://user-images.githubusercontent.com/60284829/221364123-9258ea11-bda6-496b-b3d0-46b756449fb0.png)
 ![Screenshot (125)](https://user-images.githubusercontent.com/60284829/221364124-45d7787d-51c8-4fbb-bc1b-48bb59616ef2.png)
@@ -34,7 +34,7 @@ below you can selected pictures from some of my academic projects.
 
 
 
-# Road Construction and Project course
+# 5. Road Construction and Project course
 ![Screenshot (128)](https://user-images.githubusercontent.com/60284829/221364141-d1a8381f-f699-40e6-93fb-09c295a807c9.png)
 ![Screenshot (129)](https://user-images.githubusercontent.com/60284829/221364144-61e3ffa5-0387-49c4-89c9-971f9eed8ffa.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/60284829/221364146-e3e6eb58-c75c-4475-8315-8b7b0d01ba02.png)
@@ -55,7 +55,7 @@ below you can selected pictures from some of my academic projects.
 
 
 
-# Satellite Positioning System course
+# 6. Satellite Positioning System course
 ![Screenshot (145)](https://user-images.githubusercontent.com/60284829/221364207-296acef4-b22a-41dd-b6f5-06ea6a6f602f.png)
 ![Screenshot (146)](https://user-images.githubusercontent.com/60284829/221364208-57c9ae5a-dea0-4365-b8fd-f70619a9209b.png)
 ![Screenshot (147)](https://user-images.githubusercontent.com/60284829/221364211-88d68b4d-7f93-4edd-bf51-e21394f41e05.png)
@@ -65,7 +65,7 @@ below you can selected pictures from some of my academic projects.
 
 
 
-# Image Matching
+# 7. Image Matching
 ![1](https://user-images.githubusercontent.com/60284829/221364256-8a4f1987-d593-4a2f-9d7f-0151feeec058.PNG)
 ![2](https://user-images.githubusercontent.com/60284829/221364259-703c31f7-d512-433b-a75b-81e324e2aed6.PNG)
 ![6](https://user-images.githubusercontent.com/60284829/221364260-10942f35-b9b6-4287-a84a-3b795e6dd4db.PNG)
